@@ -1,17 +1,32 @@
 # Imersao-Front-End-Alura
 
-O que já foi feito até agora 🚀
-Configuração do ambiente de desenvolvimento
+**Atualização do Projeto**
 
-Configuração inicial no VSCode para facilitar o trabalho com o projeto.
-Revisão de conceitos fundamentais
+**🔧 Melhorias no HTML:**
+Adição de uma sidebar funcional, com:
 
-Criação da sidebar navigation
+*Navegação para as seções de Início e Buscar.
+Exibição da logo do Spotify.
+Botão de acesso à Biblioteca, com ícones para melhor usabilidade.
+Seção interativa para criação de playlists, com título, subtítulo e botão de ação.
+Inclusão de um botão para seleção de idioma e link para informações sobre cookies.*
 
-Estruturação e estilização da barra lateral de navegação para replicar o estilo do Spotify.
-Aplicação de estilos com CSS
 
-Introdução de propriedades de estilo e ajustes no Devtools para refinar o layout.
+**🎨 Aprimoramentos no CSS:**
+*Integração de layout flexível para organização dos elementos.
+Novos estilos para botões e seções com bordas arredondadas e espaçamentos ajustados.
+Manutenção de uma paleta de cores escura e tipografia consistente (DM Sans).*
+
+
+**🌐 Recursos Adicionados:**
+*Integração com FontAwesome para ícones interativos.
+Inclusão dos arquivos reset.css e style.css para padronização e melhorias visuais.*
+
+
+**🚀 Benefícios:**
+*Melhor organização e separação de componentes.
+Interface mais moderna e responsiva.
+Navegação aprimorada e funcionalidades que enriquecem a experiência do usuário.*
 
 Tecnologias utilizadas 💻
 HTML: Estruturação do conteúdo.
