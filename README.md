@@ -28,6 +28,22 @@ Inclusão dos arquivos reset.css e style.css para padronização e melhorias vis
 Interface mais moderna e responsiva.
 Navegação aprimorada e funcionalidades que enriquecem a experiência do usuário.*
 
+
+
+**AULA 3:**
+
+*Melhorias Recentes
+HTML
+Adição de navegação com setas no cabeçalho.
+Inclusão de barra de pesquisa estilizada e funcional.
+Seção de disclaimer sobre Spotify Premium adicionada ao rodapé.
+CSS
+Estilização do cabeçalho (header__navigation) para melhor alinhamento dos elementos.
+Botões circulares para navegação com setas (arrow-left, arrow-right).
+Melhor uso de variáveis CSS para cores e temas (--bg-icon, --bg-arrow-color).
+Estilização detalhada da barra de pesquisa (header__search) com controle de overflow e input transparente.
+Melhor controle de elementos de login com botões diferenciados (subscribe, login).*
+
 Tecnologias utilizadas 💻
 HTML: Estruturação do conteúdo.
 CSS: Estilização e layout.
