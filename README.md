@@ -44,6 +44,22 @@ Melhor uso de variáveis CSS para cores e temas (--bg-icon, --bg-arrow-color).
 Estilização detalhada da barra de pesquisa (header__search) com controle de overflow e input transparente.
 Melhor controle de elementos de login com botões diferenciados (subscribe, login).*
 
+**AULA 4**
+
+Responsividade: Utiliza Media Queries para ajustar a exibição em diferentes tamanhos de tela.
+
+Estilização Personalizada: Cartões coloridos para artistas, botões com efeitos de hover e componentes responsivos.
+
+Componentes Visuais:
+
+Barra lateral fixa com navegação para "Início" e "Buscar".
+
+Seções para criação de playlists com botões destacados.
+
+Layout com cards de playlists com imagens e descrições claras.
+
+Elementos visuais para uma experiência de usuário fluida.
+
 Tecnologias utilizadas 💻
 HTML: Estruturação do conteúdo.
 CSS: Estilização e layout.
