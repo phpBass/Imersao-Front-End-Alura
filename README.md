@@ -63,4 +63,4 @@ Elementos visuais para uma experiência de usuário fluida.
 Tecnologias utilizadas 💻
 HTML: Estruturação do conteúdo.
 CSS: Estilização e layout.
-JavaScript: Planejado para interatividade futura.
+JavaScript: Interatividade e animações.
